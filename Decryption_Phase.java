@@ -50,9 +50,9 @@ u = new BigInteger("3");
 int a = 31;
 BigInteger[] arr = new BigInteger[100];
 BigInteger[] dearr = new BigInteger[100];
-File encryptedFile = new File("C:/Users/Anudeep.C.V/Desktop/VIT/F2-Information Security
+File encryptedFile = new File("C:/Users/Abhi/Desktop/VIT/F2-Information Security
 Analysis and Audit/Project/encryption code/file.encrypted");
-File decryptedFile = new File("C:/Users/Anudeep.C.V/Desktop/VIT/F2-Information Security
+File decryptedFile = new File("C:/Users/Abhi/Desktop/VIT/F2-Information Security
 Analysis and Audit/Project/encryption code/DecryptedFile.docx");
 System.out.println("To decrypt your file Enter the SRNN key generated:");
 v = (u.pow(phi.intValue() - a)).mod(n);
