@@ -48,8 +48,8 @@ int a = 31;
 ua = u.pow(a);
 BigInteger[] ekey = new BigInteger[100];
 BigInteger[] enkey = new BigInteger[100];
-File inputFile = new File("C:/Users/Anudeep.C.V/Desktop/VIT/F2-Information SecurityAnalysis and Audit/Project/encryption code/File.docx");
-File encryptedFile = new File("C:/Users/Anudeep.C.V/Desktop/VIT/F2-InformationSecurity Analysis and Audit/Project/encryption code/file.encrypted");
+File inputFile = new File("C:/Users/Abhi/Desktop/VIT/F2-Information SecurityAnalysis and Audit/Project/encryption code/File.docx");
+File encryptedFile = new File("C:/Users/Abhi/Desktop/VIT/F2-InformationSecurity Analysis and Audit/Project/encryption code/file.encrypted");
 try
 {
 Encryption_Phase.keyString = s1;
